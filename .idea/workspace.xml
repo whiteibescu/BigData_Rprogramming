@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68ef5a2a-0fa3-422a-8b13-575fc0ccdf3e" name="Default Changelist" comment="" />
+    <list default="true" id="68ef5a2a-0fa3-422a-8b13-575fc0ccdf3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day9_hw9/.ipynb_checkpoints/Homework2 classification_-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day9_hw9/.ipynb_checkpoints/Homework2 classification_-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day9_hw9/Homework2 classification_.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Day9_hw9/Homework2 classification_.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
